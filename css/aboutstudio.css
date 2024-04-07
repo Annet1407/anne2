@@ -1,0 +1,19 @@
+.aboutstudio{
+    background-image: url("/fonts/12.jpg");
+    
+}
+
+.shadow1 {
+	box-shadow: 0 8px 26px rgba(0,0,0,0.4), 0 28px 30px rgba(0,0,0,0.3);
+    width: 369px;
+    margin: 80px auto;
+    padding: 40px;
+}
+
+
+.abouttext{
+    color: white;
+    letter-spacing: 4px;
+    font-weight: 600;
+
+}
